@@ -1,6 +1,6 @@
 package com.example.daggerdemo.model
 
-data class ApiRP(
+data class DataRP(
     val archive_url: String,
     val assignees_url: String,
     val blobs_url: String,
